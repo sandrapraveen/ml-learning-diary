@@ -29,9 +29,3 @@ In the notebook, I cover:
 - Avoid **data leakage**: use `fit_transform()` on the training set, and only `transform()` on the test set  
 
 ---
-
-## 📂 How to Run
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-

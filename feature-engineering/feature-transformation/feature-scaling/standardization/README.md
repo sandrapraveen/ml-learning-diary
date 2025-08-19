@@ -1,4 +1,4 @@
-# Standardization in Machine Learning 🚀
+# Standardization in Machine Learning 
 
 This repository contains my notebook **`standardization.ipynb`**, where I explore the concept of **feature standardization** — one of the most important preprocessing steps in Machine Learning.
 
